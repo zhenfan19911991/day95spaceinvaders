@@ -11,5 +11,6 @@ Desktop version of the classic arcade game Space Invaders where you shoot down a
 ## How to use
 
 1. run main.py to start the game.
+2. the defenders.py, bunckers.py, aliens.py and score.py are to build the components the game as python class object and they are imported to main.py.
 
 
