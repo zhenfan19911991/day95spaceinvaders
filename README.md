@@ -10,5 +10,6 @@ Desktop version of the classic arcade game Space Invaders where you shoot down a
 
 ## How to use
 
-run main.py to start the game.
+1. run main.py to start the game.
+
 
