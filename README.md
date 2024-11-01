@@ -1,7 +1,7 @@
 
 # Space Invaders Game
 
-Desktop verison of the classic arcade game Space Invaders where you shoot down alien ships.
+Desktop version of the classic arcade game Space Invaders where you shoot down alien ships.
 
 ## Example Output
 
